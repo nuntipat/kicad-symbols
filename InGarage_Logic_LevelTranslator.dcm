@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AVC8T245DGV
+D 8-Bit Dual-Supply Bus Transceiver with Configurable Voltage-Level Shifting and 3-State Outputs
+K Level Shifter
+F http://www.ti.com/lit/gpn/sn74avc8t245
+$ENDCMP
+#
+#End Doc Library

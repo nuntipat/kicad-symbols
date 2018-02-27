@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63020
+D High Efficiency Single Inductor Buck-Boost Converter with 4A Switch
+F http://www.ti.com/lit/ds/symlink/tps63020.pdf
+$ENDCMP
+#
+#End Doc Library
