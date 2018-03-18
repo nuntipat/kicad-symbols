@@ -1,5 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM3670MF-1.2
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 1.2V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.5
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 1.5V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.6
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 1.6V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.8
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 1.8V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-1.875
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 1.875V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-3.3
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, 3.3V Fixed Output Voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
+$CMP LM3670MF-ADJ
+D Miniature Step-Down DC-DC Converter for Ultralow Voltage Circuits, 2.5V < Vin < 5.5V, adjustable output voltage, SOT-23-5
+K DC-DC buck conveter step down voltage regulator
+F http://www.ti.com/lit/ds/symlink/lm3670.pdf
+$ENDCMP
+#
 $CMP TPS63020
 D High Efficiency Single Inductor Buck-Boost Converter with 4A Switch
 F http://www.ti.com/lit/ds/symlink/tps63020.pdf

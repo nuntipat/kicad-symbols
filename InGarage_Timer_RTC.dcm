@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISL12057IBZ
+D Low Cost and Low Power I2C RTC Real Time Clock/Calendar with Alarm Function and Dual IRQ Pins, 1.4V to 3.6V VCC, -40°C to +85°C, SOIC-8
+K RTC, I2C Timekeeping Chip
+F https://www.intersil.com/content/dam/Intersil/documents/isl1/isl12057.pdf
+$ENDCMP
+#
+#
+$CMP ISL12057IUZ
+D Low Cost and Low Power I2C RTC Real Time Clock/Calendar with Alarm Function and Dual IRQ Pins, 1.4V to 3.6V VCC, -40°C to +85°C, MSOP-8
+K RTC, I2C Timekeeping Chip
+F https://www.intersil.com/content/dam/Intersil/documents/isl1/isl12057.pdf
+$ENDCMP
+#
+#End Doc Library
