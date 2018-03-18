@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +1V8_FTDI
+D power-flag symbol +1V8_FTDI
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3V3_FTDI
+D power-flag symbol +3V3_FTDI
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP +3V7
 D power-flag symbol +3V7
 K Power Flag Symbol

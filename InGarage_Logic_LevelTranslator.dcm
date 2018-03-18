@@ -6,4 +6,10 @@ K Level Shifter
 F http://www.ti.com/lit/gpn/sn74avc8t245
 $ENDCMP
 #
+$CMP TXS0102DQE
+D 2-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull in X2SON Package With Auto Direction Sensing
+K Level-Shifter CMOS-TTL-Translation
+F http://www.ti.com/lit/ds/symlink/txs0102.pdf
+$ENDCMP
+#
 #End Doc Library
