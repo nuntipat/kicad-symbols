@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LED_Dual_CCAA
+D LED dual, 4-pin
+K led diode bicolor dual
+F ~
+$ENDCMP
+#
 #End Doc Library
