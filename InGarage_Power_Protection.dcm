@@ -6,4 +6,10 @@ K ESD protection USB 3.0
 F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
 $ENDCMP
 #
+$CMP USBLC6-2P6
+D Bidirectional ESD Protection Diode, SOT-23-6
+K usb ethernet
+F http://www2.st.com/resource/en/datasheet/CD00050750.pdf
+$ENDCMP
+#
 #End Doc Library
