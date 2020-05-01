@@ -42,6 +42,10 @@ K DC-DC buck conveter step down voltage regulator
 F http://www.ti.com/lit/ds/symlink/lm3670.pdf
 $ENDCMP
 #
+$CMP TPS62135
+F http://www.ti.com/lit/ds/symlink/tps62135.pdf?ts=1588343372603
+$ENDCMP
+#
 $CMP TPS63020
 D High Efficiency Single Inductor Buck-Boost Converter with 4A Switch
 F http://www.ti.com/lit/ds/symlink/tps63020.pdf
