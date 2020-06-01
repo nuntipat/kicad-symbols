@@ -180,6 +180,24 @@ K Dual-channel digital isolator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM120N_121N.pdf
 $ENDCMP
 #
+$CMP ADuM1400xRW
+D Quad Channel Digital Isolator, 10Mbps, SOIC-16
+K Digital Isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf
+$ENDCMP
+#
+$CMP ADuM1401xRW
+D Quad Channel Digital Isolator, 10Mbps, SOIC-16
+K Digital Isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf
+$ENDCMP
+#
+$CMP ADuM1402xRW
+D Quad Channel Digital Isolator, 10Mbps, SOIC-16
+K Digital Isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf
+$ENDCMP
+#
 $CMP ADuM1410
 D Quad Channel Digital Isolator,10Mbps,SO-16
 K Digital Isolator
@@ -310,6 +328,42 @@ $CMP EL817
 D DC Optocoupler, Vce 35V, DIP-4
 K NPN DC Optocoupler
 F http://www.everlight.com/file/ProductFile/EL817.pdf
+$ENDCMP
+#
+$CMP FODM214
+D AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4
+K AC DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
+$ENDCMP
+#
+$CMP FODM214A
+D AC/DC Optocoupler, Vce 80V, CTR 50-250%, SOP-4
+K AC DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
+$ENDCMP
+#
+$CMP FODM217A
+D DC Optocoupler, Vce 80V, CTR 80-160%, SOP-4
+K DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
+$ENDCMP
+#
+$CMP FODM217B
+D DC Optocoupler, Vce 80V, CTR 130-260%, SOP-4
+K DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
+$ENDCMP
+#
+$CMP FODM217C
+D DC Optocoupler, Vce 80V, CTR 200-400%, SOP-4
+K DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
+$ENDCMP
+#
+$CMP FODM217D
+D DC Optocoupler, Vce 80V, CTR 300-600%, SOP-4
+K DC Phototransistor Optocoupler
+F https://www.onsemi.com/pub/Collateral/FODM214-D.PDF
 $ENDCMP
 #
 $CMP H11AA1
