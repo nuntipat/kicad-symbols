@@ -6,9 +6,20 @@ K audio jack receptable stereo headphones connector
 F ~
 $ENDCMP
 #
+$CMP Microbit_Edge
+D Edge Connector of Microbit Board
+K Edge Connector of Microbit Board
+$ENDCMP
+#
 $CMP SW_Push_Dual_GND
 D Push button switch, generic, symbol, four pins
 K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP Seeed_Grove_Con
+D 4 Pin SMD Grove Connector
+K 4 Pin SMD Grove Connector
+F https://statics3.seeedstudio.com/images/opl/datasheet/3470120P1.pdf
 $ENDCMP
 #
 #End Doc Library

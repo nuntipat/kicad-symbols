@@ -20,6 +20,12 @@ D power-flag symbol +3V7
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP NCP186AMXxxxTAG
+D 0.8-3.9V 1A LDO 100mV dropout 
+K 0.8-3.9V 1A LDO 100mV dropout 
+F https://www.onsemi.com/pub/Collateral/NCP186-D.PDF
+$ENDCMP
+#
 $CMP VSYS
 D power-flag symbol +3V7
 K Power Flag Symbol

@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AM4311T42A0
+D MEMS Microphone
+K MEMS Microphone
+F https://datasheet.lcsc.com/szlcsc/1809191740_Partron-AM4311T42A0_C267056.pdf
+$ENDCMP
+#
+$CMP MLT-8540
+D Electromagnetic Buzzer
+K Electromagnetic Buzzer
+F https://datasheet.lcsc.com/szlcsc/1811141138_Jiangsu-Huaneng-Elec-MLT-8540_C95300.pdf
+$ENDCMP
+#
 $CMP MP34DT05-A
 D MEMS Omnidirectional Digital Microphone, HLGA-6
 K MEMS Microphone

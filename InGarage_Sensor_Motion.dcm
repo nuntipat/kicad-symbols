@@ -12,4 +12,10 @@ K 3-axis accelerometer spi mems
 F http://www.st.com/resource/en/datasheet/lis2de12.pdf
 $ENDCMP
 #
+$CMP ST_LSM303A
+D eCompass and Accelerometer
+K eCompass and Accelerometer
+F https://datasheet.lcsc.com/szlcsc/1810010809_STMicroelectronics-LSM303AGRTR_C126671.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -6,4 +6,10 @@ K led diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP WS2812B-MINI
+D Intelligent Addressable RGB LED
+K Intelligent Addressable RGB LED
+F http://www.world-semi.com/DownLoadFile/112
+$ENDCMP
+#
 #End Doc Library
