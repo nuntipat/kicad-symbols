@@ -12,4 +12,10 @@ K USB Charge
 F http://www.ti.com/lit/ds/symlink/bq24075.pdf
 $ENDCMP
 #
+$CMP XT4052
+D Battery Charge Controller
+K Battery Charge Controller
+F https://datasheet.lcsc.com/szlcsc/1809140418_NATLINEAR-XT4052K421MR-G_C219048.pdf
+$ENDCMP
+#
 #End Doc Library

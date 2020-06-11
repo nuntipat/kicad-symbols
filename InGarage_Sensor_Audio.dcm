@@ -6,6 +6,12 @@ K MEMS Microphone
 F https://datasheet.lcsc.com/szlcsc/1809191740_Partron-AM4311T42A0_C267056.pdf
 $ENDCMP
 #
+$CMP MLT-5020
+D Electromagnetic Buzzer
+K Electromagnetic Buzzer
+F https://datasheet.lcsc.com/szlcsc/1811151523_Jiangsu-Huaneng-Elec-MLT-5020_C94598.pdf
+$ENDCMP
+#
 $CMP MLT-8540
 D Electromagnetic Buzzer
 K Electromagnetic Buzzer

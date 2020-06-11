@@ -6,6 +6,12 @@ K 3-axis accelerometer spi mems
 F http://www.st.com/resource/en/datasheet/lis2de12.pdf
 $ENDCMP
 #
+$CMP KXTJ3-1057
+D 3-Axis Accelerometer, 2/4/8/16g range, I2C interface
+K 3-Axis Accelerometer, 2/4/8/16g range, I2C interface
+F https://datasheet.lcsc.com/szlcsc/1911051531_ROHM-Semicon-KXTJ3-1057_C442603.pdf
+$ENDCMP
+#
 $CMP LIS2DE12
 D 3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface
 K 3-axis accelerometer spi mems
