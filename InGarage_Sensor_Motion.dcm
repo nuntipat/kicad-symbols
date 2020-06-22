@@ -18,6 +18,12 @@ K 3-axis accelerometer spi mems
 F http://www.st.com/resource/en/datasheet/lis2de12.pdf
 $ENDCMP
 #
+$CMP QMC5883L
+D 3-Axis Magnetic Sensor
+K 3-Axis Magnetic Sensor
+F https://datasheet.lcsc.com/szlcsc/QST-QMC5883L-TR_C192585.pdf
+$ENDCMP
+#
 $CMP ST_LSM303A
 D eCompass and Accelerometer
 K eCompass and Accelerometer
