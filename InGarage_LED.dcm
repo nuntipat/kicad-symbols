@@ -6,6 +6,12 @@ K led diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP LED_RBAG
+D RGB LED, red/blue/anode/green
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP WS2812B-MINI
 D Intelligent Addressable RGB LED
 K Intelligent Addressable RGB LED

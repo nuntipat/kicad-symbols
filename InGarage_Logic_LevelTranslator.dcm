@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AHCT125
+D Quad Bus Driver with 3-state Outputs
+K Quad Bus Driver with 3-state Outputs
+F https://www.ti.com/lit/ds/symlink/sn54ahct125.pdf
+$ENDCMP
+#
+$CMP LSF0108
+D 8-Bit Bidirectional Logic Level Translator
+K 8-Bit Bidirectional Logic Level Translator
+F https://www.ti.com/lit/ds/symlink/lsf0108.pdf
+$ENDCMP
+#
 $CMP SN74AVC8T245DGV
 D 8-Bit Dual-Supply Bus Transceiver with Configurable Voltage-Level Shifting and 3-State Outputs
 K Level Shifter

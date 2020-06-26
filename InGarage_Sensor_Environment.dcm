@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SS39ET
+D Analog Hall Sensor
+K Analog Hall Sensor
+F https://datasheet.lcsc.com/szlcsc/Honeywell-SS39ET_C126669.pdf
+$ENDCMP
+#
+$CMP UHE4913
+D Digital Output Hall Effect Sensor
+K Digital Output Hall Effect Sensor
+F https://datasheet.lcsc.com/szlcsc/Unisonic-Tech-UHE4913G-AE3-R_C86815.pdf
+$ENDCMP
+#
 #End Doc Library
