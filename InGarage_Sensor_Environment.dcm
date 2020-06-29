@@ -12,4 +12,10 @@ K Digital Output Hall Effect Sensor
 F https://datasheet.lcsc.com/szlcsc/Unisonic-Tech-UHE4913G-AE3-R_C86815.pdf
 $ENDCMP
 #
+$CMP TMP75
+D Temperature Sensor with I2C/SMBus Interface, SOIC-8 and VSSOP-8
+K temperature sensor i2c smbus
+F https://www.ti.com/lit/ds/symlink/tmp75.pdf
+$ENDCMP
+#
 #End Doc Library
