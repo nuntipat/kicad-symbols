@@ -6,6 +6,12 @@ K ESD protection USB 3.0
 F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
 $ENDCMP
 #
+$CMP SP3003-02JXTG
+D Low Capacitance TVS Diode Array, 2 Channels, SOT-553
+K ESD Protection TVS High-speed USB
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf
+$ENDCMP
+#
 $CMP USBLC6-2P6
 D Bidirectional ESD Protection Diode, SOT-23-6
 K usb ethernet
