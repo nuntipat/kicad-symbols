@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4015
+D Dual 4-Stage Shift Register
+K Dual 4-Stage Shift Register
+F https://www.ti.com/lit/ds/symlink/cd4015b.pdf
+$ENDCMP
+#
+$CMP 74185
+D BCD-to-Binary and Binary-to-BCD Converter
+$ENDCMP
+#
 $CMP ET6226M
 D I2C IO Expander/7 Segment Driver/Keyboard Scanner
 K I2C IO Expander/7 Segment Driver/keyboard Scanner
