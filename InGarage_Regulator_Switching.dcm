@@ -42,6 +42,10 @@ K DC-DC buck conveter step down voltage regulator
 F http://www.ti.com/lit/ds/symlink/lm3670.pdf
 $ENDCMP
 #
+$CMP TPS61085T
+F https://www.ti.com/lit/ds/symlink/tps61085t.pdf?ts=1628751050720&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS61085T
+$ENDCMP
+#
 $CMP TPS62135
 F http://www.ti.com/lit/ds/symlink/tps62135.pdf?ts=1588343372603
 $ENDCMP
