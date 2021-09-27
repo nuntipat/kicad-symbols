@@ -22,4 +22,10 @@ K 4 Pin SMD Grove Connector
 F https://statics3.seeedstudio.com/images/opl/datasheet/3470120P1.pdf
 $ENDCMP
 #
+$CMP USB_C_Plug_USB2.0_PWR
+D USB 2.0-only Type-C Plug connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
 #End Doc Library
