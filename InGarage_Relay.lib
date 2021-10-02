@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF FTR-F3AA0xxx-x K 0 20 Y Y 1 F N
 F0 "K" 450 150 50 H V L CNN
 F1 "FTR-F3AA0xxx-x" 450 50 50 H V L CNN
-F2 "" 450 -50 50 H I L CNN
+F2 "GiraffeTech-Electromechanical:Fujitsu_FTR-F3AA0xxx-x" 450 -50 50 H I L CNN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
  Relay*SPDT*Omron*G5Q*

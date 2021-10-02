@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP FTR-F3AA0xxx-x
-D Omron G5G relay, Miniature Single Pole, SPDT, 10A
-K Miniature Single Pole Relay
+D Fujitsu Low Profile Power Relay
+K Profile Power Relay
 $ENDCMP
 #
 #End Doc Library
