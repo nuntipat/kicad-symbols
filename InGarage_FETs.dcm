@@ -6,6 +6,12 @@ K P-Channel MOSFET
 F https://datasheet.lcsc.com/szlcsc/Leshan-Radio-LP3218DT1G_C172437.pdf
 $ENDCMP
 #
+$CMP RAQ045P01
+D P-Channel MOSFET
+K P-Channel MOSFET
+F https://rohmfs-rohm-com-cn.oss-cn-shanghai.aliyuncs.com/en/products/databook/datasheet/discrete/transistor/mosfet/raq045p01tcr-e.pdf
+$ENDCMP
+#
 $CMP SI1401EDH-T1-BE3
 D P-MOSFET transistor, drain/gate/source
 K transistor PMOS P-MOS P-MOSFET
