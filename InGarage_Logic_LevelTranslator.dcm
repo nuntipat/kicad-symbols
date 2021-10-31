@@ -1,39 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 74AHC1G14
-D Single Schmitt NOT Gate, Low-Voltage CMOS
-K Single Gate NOT Schmitt LVC CMOS
-F https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf
-$ENDCMP
-#
 $CMP 74AHCT125
 D Quad Bus Driver with 3-state Outputs
 K Quad Bus Driver with 3-state Outputs
 F https://www.ti.com/lit/ds/symlink/sn54ahct125.pdf
-$ENDCMP
-#
-$CMP 74AHCT1G14
-D Single Schmitt NOT Gate, Low-Voltage CMOS
-K Single Gate NOT Schmitt LVC CMOS
-F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
-$ENDCMP
-#
-$CMP 74AUC1G14
-D Single Schmitt NOT Gate, Low-Voltage CMOS
-K Single Gate NOT Schmitt LVC CMOS
-F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
-$ENDCMP
-#
-$CMP 74AUP1G14
-D Single Schmitt NOT Gate, Low-Voltage CMOS
-K Single Gate NOT Schmitt LVC CMOS
-F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
-$ENDCMP
-#
-$CMP 74LVC2G14
-D Single Schmitt NOT Gate, Low-Voltage CMOS
-K Single Gate NOT Schmitt LVC CMOS
-F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
 $CMP LSF0108
