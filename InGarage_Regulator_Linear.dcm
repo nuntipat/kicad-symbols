@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BD33FC0WEFJ
+D Single Output LDO Regulator 3.3V/1A, 35V Voltage Resistance, Accuracy ±1%
+K linear regulator fixed positive over voltage protection thermal shutdown
+$ENDCMP
+#
 #End Doc Library
