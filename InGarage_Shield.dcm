@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Atmel_SAMD10_XplainedMini_CompatibleShield
+K ATMEL SAMD10 XPLAINED
+$ENDCMP
+#
 $CMP Atmel_SAMD10_XplainedMini_Shield
 K ATMEL SAMD10 XPLAINED
 $ENDCMP
