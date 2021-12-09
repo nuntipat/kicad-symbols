@@ -78,6 +78,11 @@ K 32-bit ARM Cortex-M0+ MCU Microcontroller
 F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf
 $ENDCMP
 #
+$CMP ATSAMD20E1xA-A
+D SAM D20 Microchip SMART ARM-based Flash MCU, 48Mhz, TQFP-32
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+$ENDCMP
+#
 $CMP ATSAMD21E15A-A
 D SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash, 4K SRAM, TQFP-32
 K 32-bit ARM Cortex-M0+ MCU Microcontroller
