@@ -546,6 +546,11 @@ K relay monostable
 F https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663
 $ENDCMP
 #
+$CMP FUJITSU_NA-5W-K
+D DPDT signal relay
+K Fujitsu
+$ENDCMP
+#
 $CMP Fujitsu_FTR-F1A
 D Fujitsu Low Profile Power Relay
 K double pole single throw relay
